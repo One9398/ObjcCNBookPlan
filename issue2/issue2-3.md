@@ -1,4 +1,4 @@
-# issue2-3
+# [底层并发API](README.md)
 
 这篇文章里，我们将会讨论一些 iOS 和 OS X 都可以使用的底层 API。除了 `dispatch_once` ，我们一般不鼓励使用其中的任何一种技术。
 
