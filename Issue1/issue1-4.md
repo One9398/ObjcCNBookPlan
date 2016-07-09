@@ -1,4 +1,4 @@
-# issue1-4
+# [ViewContoller容器](README.md)
 
 在 iOS 5 之前，view controller 容器是 Apple 的特权。实际上，在 view controller 编程指南中还有一段申明，指出你不应该使用它们。Apple 对 view controllers 的总的建议曾经是“一个 view controller 管理一个全屏幕的内容”。这个建议后来被改为“一个 view controller 管理一个自包含的内容单元”。为什么 Apple 不想让我们构建自己的 tab bar controllers 和 navigation controllers？或者更确切地说，这段代码有什么问题：
 
