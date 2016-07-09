@@ -17,4 +17,5 @@
 * [issue3](issue3/Readme.md)
    * issue3-0
    * issue3-1
+   * issue3-2
 
