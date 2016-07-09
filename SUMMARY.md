@@ -18,7 +18,7 @@
    * [issue3-0](issue3/issue3-0.md)
    * [issue3-1](issue3/issue3-1.md)
    * [issue3-2](issue3/issue3-2.md)
-   * issue3-3
+   * [issue3-3](issue3/issue3-3.md)
    * issue3-3
    * issue3-5
 
