@@ -1,4 +1,4 @@
-# issue3-3
+# [自定义 Collection View 布局](README.md)
 
 UICollectionView 在 iOS6 中第一次被引入，也是 UIKit [视图类中的一颗新星][1]。它和 UITableView 共享一套 API 设计，但也在 UITableView 上做了一些扩展。UICollectionView 最强大、同时显著超出 UITableView 的特色就是其完全灵活的布局结构。在这篇文章中，我们将会实现一个相当复杂的自定义 collection view 布局，并且顺便讨论一下这个类设计的重要部分。项目的示例代码在 [GitHub][2] 上。
 
