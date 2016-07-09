@@ -1,5 +1,5 @@
 #[期刊三: 视图]()
-### [卷首语](issue-3-0.md)
+### [卷首语](issue3-0.md)
 ### [绘制像素到屏幕上](issue-3-1.md) 
 ### [理解 Scroll Views](issue-3-2.md)
 ### [自定义 Collection View 布局](issue-3-3.md)
