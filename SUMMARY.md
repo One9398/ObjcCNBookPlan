@@ -7,7 +7,7 @@
    * [issue1-2](Issue1/issue1-2.md)
    * [issue1-3](Issue1/issue1-3.md)
    * [issue1-4](Issue1/issue1-4.md)
-* [Issue2](issue2/README.md)
+* [issue2](issue2/README.md)
    * [issue2-0](issue2/issue2-0.md)
    * [issue2-1](issue2/issue2-1.md)
    * [issue2-2](issue2/issue2-2.md)
