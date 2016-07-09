@@ -1,4 +1,4 @@
-# [卷首语](READ.md)
+# [卷首语](README.md)
 
 objc.io 是关于 Objective-C 最佳实践和先进技术的期刊，欢迎来到第一期！
 
