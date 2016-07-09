@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [ONE](Issue1/Readme.md)
+* [Issue1](Issue1/Readme.md)
 
