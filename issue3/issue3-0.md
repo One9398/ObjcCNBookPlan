@@ -1,4 +1,4 @@
-# issue3-0
+# [卷首语](README.md)
 
 欢迎来到 objc.io 的第三期！
 
