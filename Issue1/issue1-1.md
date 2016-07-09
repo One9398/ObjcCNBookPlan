@@ -1,4 +1,4 @@
-# issue1-1
+# [更轻量的View Controller](README.md)
 
 View controllers 通常是 iOS 项目中最大的文件，并且它们包含了许多不必要的代码。所以 View controllers 中的代码几乎总是复用率最低的。我们将会看到给 view controllers 瘦身的技术，让代码变得可以复用，以及把代码移动到更合适的地方。
 
