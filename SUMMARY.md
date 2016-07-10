@@ -26,4 +26,5 @@
    * [issue7-1](issue7/issue7-1.md)
    * [issue7-2](issue7/issue7-2.md)
    * [issue7-3](issue7/issue7-3.md)
+   * issue7-4
 
